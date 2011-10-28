@@ -1,0 +1,10 @@
+This directory contains some android samples available for public.
+The git repo uses 'androidhahn'
+
+To add your git repo to remote, use :
+
+git add your-file
+git commit -m "your description"
+git remote add origin git@guthub.com:androidhahn/AndroidSamples.git
+git push -u origin master
+
